@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-by Artem Moshnin
+by Artem Moshnin as part of my studies of Computer Science Degree
 
 ## Data Structures
 

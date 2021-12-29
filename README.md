@@ -1,5 +1,7 @@
 # Data Structures and Algorithms
 
+by Artem Moshnin
+
 ## Data Structures
 
 A data structure is a particular way of organizing and storing data in a computer so that it can

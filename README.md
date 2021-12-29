@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-## Time and Space Complexity Analysis
+### Time and Space Complexity Analysis
 
 <details>
   <summary>Time/Space complexity for for Data Structure Operations</summary>
